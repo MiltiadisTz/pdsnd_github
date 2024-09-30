@@ -27,4 +27,13 @@ The codebase is organized as follows:
 - `data/`: Directory for datasets used in the project.
 - `docs/`: Contains documentation files for the project.
 
+## Refactoring Notes
+
+Recent refactoring has been performed to improve code readability and maintainability. Key changes include:
+
+- Modularized functions for better separation of concerns.
+- Improved variable naming for clarity.
+- Added comprehensive docstrings and comments.
+
+
 
