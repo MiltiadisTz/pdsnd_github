@@ -1,5 +1,8 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
+
+
+
 ### Date created
 30/09/2024
 
@@ -16,4 +19,16 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-https://github.com/MiltiadisTz/pdsnd_github
+https://github.com/MiltiadisTz/pdsnd_github 
+
+## Usage
+To run the project, execute the following command:
+```bash
+python main.py
+
+# Example Queries
+1. View bike usage for a specific city:
+python main.py --city chicago
+
+2.Generate a report for all cities:
+python main.py --all
